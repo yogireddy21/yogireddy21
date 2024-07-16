@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Yogeswar Reddy Rachamallu</h1>
 <h3 align="center">👋 Hello! I'm a driven Computer Science student at Chaitanya Bharathi Institute of Technology (CBIT), deeply passionate about technology and innovation. 💡 I thrive on tackling intricate problems head-on and crafting ingenious solutions, leveraging my technical prowess and analytical skills. 🛠️🧠 I'm always in pursuit of opportunities to expand my knowledge and excel in the dynamic fields of Web Development 🌐, Machine Learning 🤖, Competitive Programming 🏆, and Problem-Solving 🔍. I have a strong foundation in Data Structures and Algorithms 📊, which helps me to design efficient and optimized solutions. Let's connect and explore the endless possibilities of the tech world together! 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogireddy21&label=Profile%20views&color=0e75b6&style=flat" alt="yogireddy21" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/yogireddy21/yogireddy21](https://github.com/yogireddy21/yogireddy21)
