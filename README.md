@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **yogeswarreddyrachamallu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1Mmkd6RlE83MJvJfkUkxq1Xm5a_0peXhI](https://drive.google.com/drive/u/0/folders/1Mmkd6RlE83MJvJfkUkxq1Xm5a_0peXhI)
+- 📄 Know about my experiences [Resume....](https://drive.google.com/file/d/1mTJlPeoiZa0OrxcAiSVsgA_VrTuc_Up9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
